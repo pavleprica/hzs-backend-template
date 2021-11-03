@@ -7,13 +7,23 @@ workshop.
 
 ## How to use it
 
-### Fork it
+### Get the code
 
-We want to start with forking the repository, especially in case we want to
-modify it.
+[Repository location](https://github.com/pavleprica/hzs-backend-template)
 
-Go to the [repo link](https://github.com/pavleprica/hzs-backend-template) and in the upper
-right corner click the fork button.
+#### Use template
+
+If you don't wish to fork it, easier way is to 
+just click on `Use this template` button on the repository, 
+and it will start the creation with this as its template.
+
+![Use this template](images/use-template.png)
+
+#### Fork it
+
+We would want to fork it if we would like to add some modifications to it. 
+To do so, go to the repository and in the upper right corner there will
+be the fork button.
 
 ![Fork repository](images/fork.png)
 
