@@ -19,7 +19,7 @@ public class SwaggerConfig {
                 .select()
                 .apis(RequestHandlerSelectors
                         .basePackage("io.github.com.pavleprica.hzs.template.controller"))
-                .paths(PathSelectors.regex("/*"))
+                .paths(PathSelectors.any())
                 .build()
                 .apiInfo(apiEndpointsInfo());
     }
